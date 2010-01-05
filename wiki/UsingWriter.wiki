@@ -8,4 +8,4 @@ The Writer Module Consists Of Letter Files And Two Python Source Files.Writer.py
 Add your content here.  Format your content with:
   * Writer.py Contains Code Related To Input A Phrase And Actually Make The End Image
   * Characters.py Contains Code Necessary To Map The Relationships Between Characters, And The Picture Files Which Contain The Corresponding Character
-  * You Can Either Double Click Writer.py Or Start It From The Command Line
+  * You Can Either Double Click Writer.py Or Start It From The Command Line Using `Python Writer.py`
